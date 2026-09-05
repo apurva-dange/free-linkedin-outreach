@@ -33,6 +33,13 @@ For each contact, it can:
 - Turn the contact card green after it is prepared.
 - Show a checkmark and update the progress count.
 
+### Expected impact
+
+- Saves about **3–4 manual clicks or actions per contact** by combining copy, profile opening, and status tracking.
+- Saves roughly **150–200 actions in a 50-contact batch**.
+- Reduces repeated outreach and messages sent to people who no longer work at the target company.
+- Keeps the final connection request manual, so the job seeker can review every message before sending it.
+
 You still click **Connect**, add the note, review it, and send it yourself.
 
 ## Who the skill finds
