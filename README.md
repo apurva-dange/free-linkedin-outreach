@@ -7,7 +7,7 @@ Free LinkedIn Outreach helps job seekers find the right people, write short pers
 The demo shows the full flow: choose priority companies, review verified contacts, select a company, copy the message, open LinkedIn, and track prepared contacts.
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Free LinkedIn Outreach workflow demo" width="90%" />
+  <img src="assets/demo-cropped.gif" alt="Free LinkedIn Outreach workflow demo" width="90%" />
 </p>
 
 ## The problem
