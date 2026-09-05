@@ -4,7 +4,7 @@ Free LinkedIn Outreach helps job seekers find the right people, write short pers
 
 It does not send connection requests automatically. You stay in control of the final review and send step.
 
-## See it in action
+## Project Demo
 
 The demo shows the full flow: choose priority companies, review verified contacts, select a company, copy the message, open LinkedIn, and track prepared contacts.
 
