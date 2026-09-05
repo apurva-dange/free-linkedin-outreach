@@ -1,0 +1,14 @@
+interface:
+  display_name: Free LinkedIn Outreach
+  short_description: Build verified LinkedIn job outreach queues
+  default_prompt: Use $free-linkedin-outreach to find relevant contacts and create
+    a one-click LinkedIn outreach queue.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
