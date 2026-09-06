@@ -1,3 +1,25 @@
+<p align="center">
+  <a href="https://github.com/apurva-dange/free-linkedin-outreach/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+  </a>
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python 3.8+">
+  </a>
+  <a href="https://github.com/apurva-dange/free-linkedin-outreach">
+    <img src="https://img.shields.io/badge/Codex-Skill-7400b8" alt="Codex Skill">
+  </a>
+  <a href="https://github.com/apurva-dange/free-linkedin-outreach">
+    <img src="https://img.shields.io/badge/Validation-Passing-brightgreen.svg" alt="Validation Status">
+  </a>
+  <a href="https://github.com/apurva-dange/free-linkedin-outreach/pulls">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="https://github.com/apurva-dange/free-linkedin-outreach/stargazers">
+    <img src="https://img.shields.io/github/stars/apurva-dange/free-linkedin-outreach?style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+
 # Free LinkedIn Outreach
 
 Free LinkedIn Outreach helps job seekers find the right people, write short personal messages, and prepare LinkedIn outreach with fewer clicks.
