@@ -1,7 +1,7 @@
 
 ## Free LinkedIn Outreach
 
-Free LinkedIn Outreach helps job seekers find the right people, write short personal messages, and prepare LinkedIn outreach with fewer clicks.
+Eliminate tab-switching fatigue and outreach burn-out. Free LinkedIn Outreach automates the entire candidate workflow: generate custom connection requests in bulk, verify role alignment, and use a 1-click launch button that copies your message and opens the matching LinkedIn profile simultaneously.
 
 <p align="center">
   <a href="https://github.com/apurva-dange/free-linkedin-outreach/blob/main/LICENSE">
