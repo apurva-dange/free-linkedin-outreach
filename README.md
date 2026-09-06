@@ -1,5 +1,5 @@
 
-# Free LinkedIn Outreach
+## Free LinkedIn Outreach
 
 Free LinkedIn Outreach helps job seekers find the right people, write short personal messages, and prepare LinkedIn outreach with fewer clicks.
 
