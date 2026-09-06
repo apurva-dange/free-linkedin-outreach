@@ -39,7 +39,7 @@ The demo shows the full flow: choose priority companies, review verified contact
 
 ## The problem
 
-LinkedIn outreach can become repetitive very quickly.
+LinkedIn outreach can become repetitive very quickly. Whether for revenue generation or active job hunting, manual LinkedIn outreach forces users into a 7-to-9-minute administrative loop per contact, consuming over 30% of their productive week. Because ~18% of profile previews show outdated employer details, manual outreach produces high error rates, brand damage, and a 90%+ drop in response rates on misattributed messages, wasting dozens of hours weekly in low-yield administrative labor.
 
 For every person, you may need to:
 
