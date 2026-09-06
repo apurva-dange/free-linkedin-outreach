@@ -1,3 +1,8 @@
+
+# Free LinkedIn Outreach
+
+Free LinkedIn Outreach helps job seekers find the right people, write short personal messages, and prepare LinkedIn outreach with fewer clicks.
+
 <p align="center">
   <a href="https://github.com/apurva-dange/free-linkedin-outreach/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
@@ -19,10 +24,6 @@
   </a>
 </p>
 
-
-# Free LinkedIn Outreach
-
-Free LinkedIn Outreach helps job seekers find the right people, write short personal messages, and prepare LinkedIn outreach with fewer clicks.
 
 ## Project Demo
 
