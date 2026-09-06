@@ -33,6 +33,13 @@ The demo shows the full flow: choose priority companies, review verified contact
   <img src="assets/demo-cropped.gif" alt="Free LinkedIn Outreach workflow demo" width="90%" />
 </p>
 
+**⚡ Quick Start**
+
+1. **Install the Skill**
+   Clone the repository directly into your local Codex skills folder:
+   ```bash
+   git clone [https://github.com/apurva-dange/free-linkedin-outreach.git](https://github.com/apurva-dange/free-linkedin-outreach.git) ~/.codex/skills/free-linkedin-outreach
+
 ## The problem
 
 LinkedIn outreach can become repetitive very quickly.
