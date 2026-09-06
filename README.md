@@ -87,7 +87,7 @@ The skill also checks earlier batches so the same person is not added again.
 
 ## How messages are written
 
-Every connection note must be shorter than 300 characters, including spaces.
+Every connection note must be shorter than 300 characters because of Linkedin New Connection Req character limits, including spaces.
 
 The message should contain four simple parts:
 
