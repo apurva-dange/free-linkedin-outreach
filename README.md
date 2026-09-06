@@ -19,9 +19,6 @@ Free LinkedIn Outreach helps job seekers find the right people, write short pers
   <a href="https://github.com/apurva-dange/free-linkedin-outreach/pulls">
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
-  <a href="https://github.com/apurva-dange/free-linkedin-outreach/stargazers">
-    <img src="https://img.shields.io/github/stars/apurva-dange/free-linkedin-outreach?style=social" alt="GitHub Stars">
-  </a>
 </p>
 
 
